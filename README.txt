@@ -1,1 +1,1 @@
-Projects assigned during HTML & CSS course
+Projects assigned during HTML & CSS course.
